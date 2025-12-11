@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shawal</h1>
-<h3 align="center">A second-year undergrad at RUET. I'm super into competitive programming and love building web apps using the MERN stack. Just enjoying the process of learning new tech and solving fun problems!</h3>
+<h1 align="center">Henlo, I'm Shawal</h1>
+<h3 align="center">A 2nd-year undergrad at RUET. I'm super into competitive programming and love building web apps. Just enjoying the process of learning new tech and solving fun problems!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
